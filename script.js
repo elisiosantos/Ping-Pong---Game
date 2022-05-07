@@ -173,4 +173,4 @@ function main(){
 
 main()
 
-setInterval(main, 15)
+setInterval(main, 10)
